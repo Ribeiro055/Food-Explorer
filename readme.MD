@@ -19,7 +19,7 @@ Este repositório contém os dados do Frontend da minha aplicação em React.js 
 
 ___
 
-## 🎨 Layout
+## • Layout
 A página inicial em formato desktop é vista na imagem abaixo:
 
 ![foodexplorer vercel app_](https://user-images.githubusercontent.com/106932234/204163348-5f06ae24-3ede-4bae-b68a-770493d1a286.png)
@@ -28,7 +28,7 @@ A página inicial em formato desktop é vista na imagem abaixo:
 
 ___
 
-## 🛠 Tecnologias
+## • Tecnologias
 
 As seguintes tecnologias foram empregadas na criação deste projeto:
 
@@ -52,7 +52,7 @@ As seguintes tecnologias foram empregadas na criação deste projeto:
 
 ___
 
-## 🚀 Como utilizar
+## • Como utilizar
 
 Clone o projeto para o local desejado em seu computador.
 
@@ -61,7 +61,7 @@ $ git clone git@github.com:andreviapiana/Food-Explorer.git
 ```
 ___
 
-#### 🚧 Executando o BackEnd
+#### • Executando o BackEnd
 ```bash
 # No BackEnd insira uma porta e um secret no arquivo .env vazio
   AUTH_SECRET=
@@ -78,7 +78,7 @@ $ npm run dev
 ```
 ___
 
-#### 💻 Executando o FrontEnd
+#### • Executando o FrontEnd
 ```bash
 # Navegue até o diretório do FrontEnd
 $ cd food-explorer-frontend
@@ -94,7 +94,7 @@ $ npm run dev
   http://localhost:5173/
 ```
 
-#### 🔑 Quer ver como a aplicação funciona vista pelo Admin? Use a conta a seguir:
+#### • Quer ver como a aplicação funciona vista pelo Admin? Use a conta a seguir:
 
 ```bash
   e-mail: admin@foodexplorer.com
